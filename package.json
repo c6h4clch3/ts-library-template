@@ -1,0 +1,19 @@
+{
+  "name": "ts-library-template",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "https://github.com/c6h4clch3/ts-library-template.git",
+  "author": "c6h4clch3 <c6h4clch3@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/jest": "^24.0.18",
+    "ts-jest": "^24.0.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.5.3",
+    "webpack-env": "^0.8.0"
+  }
+}
